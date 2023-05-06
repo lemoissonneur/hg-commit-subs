@@ -3,7 +3,7 @@
 # from github.com/lemoissonneur | MIT License
 # this script is used to generate commit on a master repository
 # with an aggregate of the sub repos messages
-# usage : ./master_commit.sh <my comment>
+# usage : ./hg-commit-subs.sh <my comment>
 # resulting commit message :
 # my comment
 # subrepoA :
